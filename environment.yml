@@ -1,0 +1,8 @@
+channels:
+    - conda-forge
+    - bioconda
+dependencies:
+    - r-base=3.6.1
+    - r-prospect
+    - r-pls
+    
