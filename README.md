@@ -12,7 +12,7 @@ Author: [Yufeng Ge](https://engineering.unl.edu/bse/faculty/yufeng-ge-1/)
 
 > Launch the Binder button below to open a virtual RStudio:
 
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/phenome-force/FIELDimageR-workshop.git/main?urlpath=rstudio)
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/phenome-force/Hyperspectral_Plant_Chemical.git/main?urlpath=rstudio)
 
 <br />
 
