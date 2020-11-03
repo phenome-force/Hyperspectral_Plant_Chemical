@@ -3,8 +3,6 @@ rm(list=ls())
 library(prospectr)
 library(pls)
 
-rootdir <- "C:/Users/yge2/Desktop/"
-setwd(paste0(rootdir, "VisNIR leaf property experiments/Workshop"))
 labdata <- read.table("labdata.csv", header=T, sep=",")
 specR <- read.table("specR.csv", header=T, sep=",")
 
