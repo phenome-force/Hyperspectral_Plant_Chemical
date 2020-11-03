@@ -1,6 +1,6 @@
 channels:
+    - r
     - conda-forge
-    - bioconda
 dependencies:
     - r-base=3.6
     - r-pls
