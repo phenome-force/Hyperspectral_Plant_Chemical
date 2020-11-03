@@ -1,3 +1,4 @@
 set -ex
 
-Rscript -e 'install.packages("prospectr", dependencies=TRUE, quiet=TRUE)'
+Rscript -e 'install.packages("RcppArmadillo")'
+Rscript -e 'install.packages("prospectr")'
