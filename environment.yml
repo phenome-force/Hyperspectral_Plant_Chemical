@@ -5,3 +5,5 @@ dependencies:
     - r-base=3.6
     - r-pls
     - r-devtools
+    - r-Rcpp
+    - r-RcppArmadillo
