@@ -7,5 +7,6 @@ dependencies:
     - r-devtools
     - r-rcpp
     - r-rcpparmadillo
+    - r-prospectr
     - gxx_linux-64
     - libgomp
