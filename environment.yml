@@ -8,3 +8,4 @@ dependencies:
     - r-rcpp
     - r-rcpparmadillo
     - gxx_linux-64
+    - libgomp
