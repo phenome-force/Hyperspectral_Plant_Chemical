@@ -4,4 +4,3 @@ channels:
 dependencies:
     - r-base=3.6
     - r-pls
-    - r-RcppArmadillo
